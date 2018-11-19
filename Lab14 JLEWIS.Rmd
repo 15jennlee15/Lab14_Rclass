@@ -1,0 +1,34 @@
+---
+title: "Lab14"
+author: "Jenn Lewis"
+date: "11/19/2018"
+output: ioslides_presentation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## SCIENCE RULES!
+
+This is a slide where I say that science **rules**!
+
+## Why science rules
+
+- It's fun
+- You feel like a detective
+- Sometimes it involves fire or chemicals or other weird things
+
+
+## My favorite types of things to study with science
+
+- Rocks
+- Animals
+- Humans
+- Plants
+
+
+## The End
+
+Wahoo!!!
+
